@@ -1,0 +1,19 @@
+import { Module } from '@nestjs/common';
+import { BusController } from './controllers/bus/bus.controller';
+import { BusService } from './providers/bus/bus.service';
+import { MorganInterceptor } from 'nest-morgan';
+import { APP_INTERCEPTOR } from '@nestjs/core';
+import { MorganModule } from 'nest-morgan';
+
+@Module({
+  imports: [MorganModule],
+  controllers: [BusController],
+  providers: [
+    BusService,
+    {
+      provide: APP_INTERCEPTOR,
+      useClass: MorganInterceptor('combined'),
+    },
+  ],
+})
+export class AppModule {}

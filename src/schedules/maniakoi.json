@@ -1,4 +1,30 @@
 {
+  "place": {
+    "start": {
+      "en": {
+        "location": "Kastoria",
+        "address": "Kastoria, 521 00, Western Macedonia, Greece"
+      },
+      "el": {
+        "location": "Καστοριά",
+        "address": "Καστοριά, 521 00, Δυτική Μακεδονία, Ελλάδα"
+      },
+      "lon": "21.268169",
+      "lat": "40.519218"
+    },
+    "end": {
+      "en": {
+        "location": "Maniakoi",
+        "address": "Maniakoi, 521 00, Kastoria, Western Macedonia, Greece"
+      },
+      "el": {
+        "location": "Μανιάκοι",
+        "address": "Μανιάκοι, 521 00, Καστοριά, Δυτική Μακεδονία, Ελλάδα"
+      },
+      "lon": "21.244700",
+      "lat": "40.502050"
+    }
+  },
   "everyday": {
     "start": [
       "8:30",

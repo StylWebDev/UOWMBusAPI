@@ -1,4 +1,30 @@
 {
+  "place": {
+    "start": {
+      "en": {
+        "location": "Kastoria",
+        "address": "Kastoria, 521 00, Western Macedonia, Greece"
+      },
+      "el": {
+        "location": "Καστοριά",
+        "address": "Καστοριά, 521 00, Δυτική Μακεδονία, Ελλάδα"
+      },
+      "lon": "21.268169",
+      "lat": "40.519218"
+    },
+    "end": {
+      "en": {
+        "location": "Mesopotamia",
+        "address": "Mesopotamia, 521 00, Kastoria, Western Macedonia, Greece"
+      },
+      "el": {
+        "location": "Μεσοποταμία",
+        "address": "Μεσοποταμία, 521 00, Καστοριά, Δυτική Μακεδονία, Ελλάδα"
+      },
+      "lon": "21.160040",
+      "lat": "40.504640"
+    }
+  },
   "everyday": {
     "start": [
       "7:55",

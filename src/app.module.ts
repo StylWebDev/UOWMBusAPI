@@ -4,9 +4,10 @@ import { BusService } from './providers/bus/bus.service';
 import { MorganInterceptor } from 'nest-morgan';
 import { APP_INTERCEPTOR } from '@nestjs/core';
 import { MorganModule } from 'nest-morgan';
+import { ServeStaticModule } from '@nestjs/serve-static';
 
 @Module({
-  imports: [MorganModule],
+  imports: [MorganModule, ServeStaticModule.forRoot({ rootPath: './client' })],
   controllers: [BusController],
   providers: [
     BusService,

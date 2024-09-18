@@ -1,4 +1,30 @@
 {
+  "place": {
+    "start": {
+      "en": {
+        "location": "Kastoria",
+        "address": "Kastoria, 521 00, Western Macedonia, Greece"
+      },
+      "el": {
+        "location": "Καστοριά",
+        "address": "Καστοριά, 521 00, Δυτική Μακεδονία, Ελλάδα"
+      },
+      "lon": "21.268169",
+      "lat": "40.519218"
+    },
+    "end": {
+      "en": {
+        "location": "University Of Western Macedonia",
+        "address": "Fourka, 521 00, Kastoria"
+      },
+      "el": {
+        "location": "Πανεπιστήμιο Δυτικής Μακεδονίας",
+        "address": "Φούρκα, 521 00 Καστοριά Καστοριάς"
+      },
+      "lon": "21.245723",
+      "lat": "40.506355"
+    }
+  },
   "everyday": {
     "start": [
       "7:55",

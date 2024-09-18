@@ -7,6 +7,7 @@ dotenv.config({ path: process.cwd() + '../../.env' });
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
+  app.enableCors();
   app.use(helmet());
   await app.listen(3000);
 }

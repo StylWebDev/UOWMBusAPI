@@ -1,0 +1,38 @@
+{
+  "zoneA": {
+    "name": "Zone A",
+    "name_el": "Ζώνη Α",
+    "category": {
+      "norm": {
+        "inside": "1.50",
+        "outside": "1.20"
+      },
+      "low": {
+        "inside": "0.80",
+        "outside": "0.70"
+      },
+      "stud": {
+        "inside": "0.80",
+        "outside": "0.70"
+      }
+    }
+  },
+  "zoneB": {
+    "name": "Zone B",
+    "name_el": "Ζώνη Β",
+    "category": {
+      "norm": {
+        "inside": "0.50",
+        "outside": "1.20"
+      },
+      "low": {
+        "inside": "1.20",
+        "outside": "0.90"
+      },
+      "stud": {
+        "inside": "1.20",
+        "outside": "0.90"
+      }
+    }
+  }
+}

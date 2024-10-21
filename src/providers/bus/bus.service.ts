@@ -1,7 +1,7 @@
 import { HttpException, HttpStatus, Injectable } from '@nestjs/common';
-import * as tei from '../../schedules/tei.json';
-import * as mesopotamia from '../../schedules/mesopotamia.json';
-import * as maniakoi from '../../schedules/maniakoi.json';
+import * as tei from '../../util/schedules/tei.json';
+import * as mesopotamia from '../../util/schedules/mesopotamia.json';
+import * as maniakoi from '../../util/schedules/maniakoi.json';
 
 @Injectable()
 export class BusService {

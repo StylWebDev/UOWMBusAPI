@@ -6,6 +6,8 @@ import { APP_INTERCEPTOR } from '@nestjs/core';
 import { MorganModule } from 'nest-morgan';
 import { ServeStaticModule } from '@nestjs/serve-static';
 import { ConfigModule } from "@nestjs/config";
+import { TicketController } from './controllers/ticket/ticket.controller';
+import { TicketService } from './providers/ticket/ticket.service';
 
 @Module({
   imports: [
@@ -13,8 +15,9 @@ import { ConfigModule } from "@nestjs/config";
     ServeStaticModule.forRoot({ rootPath: './client' }),
     ConfigModule.forRoot({ isGlobal: true }),
   ],
-  controllers: [BusController],
+  controllers: [BusController, TicketController],
   providers: [
+    TicketService,
     BusService,
     {
       provide: APP_INTERCEPTOR,

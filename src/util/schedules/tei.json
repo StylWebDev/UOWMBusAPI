@@ -2,6 +2,7 @@
   "zone": "A",
   "type": "L",
   "mins": "10",
+  "resolvedSchedule": "Καστοριά – AEI",
   "place": {
     "start": {
       "en": {
@@ -21,7 +22,7 @@
         "address": "Fourka, 521 00, Kastoria"
       },
       "el": {
-        "location": "Πανεπιστήμιο Δυτικής Μακεδονίας",
+        "location": "Πανεπιστήμιο",
         "address": "Φούρκα, 521 00 Καστοριά Καστοριάς"
       },
       "lon": "21.245723",

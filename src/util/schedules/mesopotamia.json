@@ -2,6 +2,7 @@
   "zone": "B",
   "type": "N",
   "mins": 45,
+  "resolvedSchedule": "Καστοριά – Μανιάκοι – Κολοκυνθού – Μεσοποταμία",
   "place": {
     "start": {
       "en": {

@@ -3,6 +3,7 @@
   "type": "L",
   "mins": 30,
   "resolvedSchedule": "Καστοριά – Νταηλάκη – Ζούζουλη – Μανιάκοι",
+  "resolvedSchedule_en": "Kastoria - Dailaki - Zouzouli - Maniaki",
   "map_url": "https://www.google.com/maps/d/embed?mid=10sAM30VtlriXz7ewS-LkJFsacsI&ehbc=2E312F",
   "place": {
     "start": {

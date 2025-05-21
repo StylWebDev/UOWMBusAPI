@@ -7,7 +7,7 @@
       "resolvedSchedule": "Καστοριά – AEI",
       "map_img": "https://astikoktelkastorias.gr/wp-content/uploads/2023/10/tei-1.png",
       "desc_el": "Το Πανεπιστήμιο Δυτικής Μακεδονίας (Π.Δ.Μ.) είναι ανώτατο εκπαιδευτικό ίδρυμα που ιδρύθηκε το 2003 με το Προεδρικό Διάταγμα No. 92/11-4-2003 στην Περιφέρεια Δυτικής Μακεδονίας, με έδρα την Κοζάνη. Το Πανεπιστήμιο διαθέτει 7 Σχολές και 21 Τμήματα από τα οποία τα 4 εδράζονται στη Καστοριά",
-      "desc en": "",
+      "desc_en": "The University of Western Macedonia (UoWM) is a higher educational institution established in 2003 by Presidential Decree No. 92/11-4-2003 in the Region of Western Macedonia, based in Kozani. The University has 7 Faculties and 21 Departments, 4 of which are located in Kastoria.",
       "place": {
         "start": {
           "en": {
@@ -23,7 +23,7 @@
         },
         "end": {
           "en": {
-            "location": "University Of Western Macedonia",
+            "location": "UoWM",
             "address": "Fourka, 521 00, Kastoria"
           },
           "el": {
@@ -42,7 +42,7 @@
       "resolvedSchedule": "Καστοριά – Νταηλάκη – Ζούζουλη – Μανιάκοι",
       "map_img": "https://astikoktelkastorias.gr/wp-content/uploads/2023/10/maniakoi-1.png",
       "desc_el": "Οι Μανιάκοι είναι κωμόπολη του Νομού Καστοριάς, η οποία υπήρξε έδρα του πρώην Δήμου Αγίας Τριάδας. Από το 2011 υπάγονται διοικητικά στον διευρυμένο Δήμο Καστοριάς. Οι Μανιάκοι βρίσκονται νοτιοδυτικά της Καστοριάς, σε απόσταση 4 χλμ. νοτιοδυτικά από το κέντρο της πόλης.",
-      "desc en": "",
+      "desc_en": "Maniaki is a small town in the prefecture of Kastoria, which was the seat of the former municipality of Agia Triada. Since 2011 they are administratively part of the enlarged Municipality of Kastoria. Maniaki is located southwest of Kastoria, 4 km southwest of the city center.",
       "place": {
         "start": {
           "en": {
@@ -77,7 +77,7 @@
       "resolvedSchedule": "Καστοριά – Μανιάκοι – Κολοκυνθού – Μεσοποταμία",
       "map_img": "https://astikoktelkastorias.gr/wp-content/uploads/2023/10/mesopotamia-2.png",
       "desc_el": "Η Μεσοποταμιά βρίσκεται στα βορειοδυτικό άκρο της περιφερειακής ενότητας, σε υψόμετρο 700 μέτρα, 12 χιλιόμετρα νοτιοδυτικά της πόλης της Καστοριάς. Την ονομασία της οφείλει στο γεγονός ότι βρέχεται από δύο παραποτάμους του Αλιάκμονα. Στην τοπική αυτή κοινότητα ανήκει επίσης ο οικισμός Κολοκυνθού.",
-      "desc_en": "",
+      "desc_en": "Mesopotamia is located at the northwestern edge of the regional unit, at an altitude of 700 meters, 12 kilometers southwest of the city of Kastoria. It owes its name to the fact that it is washed by two tributaries of Aliakmonas. The settlement of Kolokynthos also belongs to this local community.",
       "place": {
         "start": {
           "en": {
